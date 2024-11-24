@@ -1,0 +1,5 @@
+Lokasi,Cuaca,Suhu
+Jakarta,Cerah,30°C
+Bandung,Hujan,24°C
+Surabaya,Berawan,28°C
+Yogyakarta,Cerah,29°C
